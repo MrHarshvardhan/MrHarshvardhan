@@ -9,6 +9,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### I am not a perfect coder, but I take other people s code and make it do exactly what I need.
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MrHarshvardhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
